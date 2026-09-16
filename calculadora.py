@@ -5,6 +5,8 @@ numero2 = float(input("Digite o segundo número: "))
 
 soma = numero1 + numero2
 subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
 
 print("Resultado da soma:", soma)
 print("Resultado da subtração:", subtracao)
+print("Resultado da multiplicação:", multiplicacao)
