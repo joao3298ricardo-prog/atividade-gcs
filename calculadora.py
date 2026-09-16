@@ -10,3 +10,9 @@ multiplicacao = numero1 * numero2
 print("Resultado da soma:", soma)
 print("Resultado da subtração:", subtracao)
 print("Resultado da multiplicação:", multiplicacao)
+
+if numero2 != 0:
+    divisao = numero1 / numero2
+    print("Resultado da divisão:", divisao)
+else:
+    print("Não é possível dividir por zero.")
